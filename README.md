@@ -12,8 +12,8 @@ git clone https://github.com/danielorkingit/whoisaround/
 cd whoisaround
 ```
 Create a free [Sendgrid account](https://signup.sendgrid.com/) and create a new API Key
-Replace the placeholders with your data 
-(API Key, email, message)
+Replace the placeholders with your data
+(API Key, email, message, device ip adress)
 ```bash
 python main.py
 ```
