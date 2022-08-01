@@ -1,6 +1,6 @@
 import subprocess
 
-DEVICE_IP = '192.168.2.214'
+DEVICE_IP = 'DEVICE_IP_ADRESS(STRING)'
 
 def checkifconnected():
 
