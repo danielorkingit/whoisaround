@@ -6,4 +6,3 @@ Therefor the Sendgrid-API gets called - a free Sendgrid account is requierd.
 
 You can add a custom HTML template within the code and extend the code for adicional usage.
 
-sudo apt get
