@@ -1,5 +1,5 @@
 # WHOISAROUND
-A simple Python program to welcome somebody with a custom e-mail when the person connects with your WiFi.
+A simple Python program to welcome somebody with a custom e-mail when the person connects to your WiFi.
 
 ## Installation
 ### Install dependencies
